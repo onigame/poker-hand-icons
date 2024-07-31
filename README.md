@@ -15,6 +15,8 @@ Some hands have different descriptions when their names in other languages are t
  * Two Pair = Double Pair = Double Couple
  * Pair = One Pair = Couple
 
+If you end up liking these and want to use them, I'd appreciate it if you could send me a description of how you are going to use them to my email. The username is onigame and the domain is gmail. I might even give you permission to use it without attribution!
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
